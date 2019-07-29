@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="take_pic">Take Picture</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cnt_last_taken_photo">Last taken photo</string>
+    <string name="calculator">Calculator</string>
+
+    <!--fragment_calculator-->
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="decimal">.</string>
+    <string name="delete">DEL</string>
+    <string name="divide">/</string>
+    <string name="multiply">x</string>
+    <string name="subtract">-</string>
+    <string name="add">+</string>
+    <string name="equals">=</string>
+    <string name="inv">INV</string>
+    <string name="sin">sin</string>
+    <string name="ln">ln</string>
+    <string name="pi">π</string>
+    <string name="left_parenthesis">(</string>
+    <string name="rad">RAD</string>
+    <string name="cos">cos</string>
+    <string name="log">log</string>
+    <string name="e">e</string>
+    <string name="right_parenthesis">)</string>
+    <string name="percent">%</string>
+    <string name="square_root">√</string>
+    <string name="power">^</string>
+    <string name="permutation">!</string>
+    <string name="tan">tan</string>
+
+    <string name="persons">+ Persons</string>
+    <string name="create_persons">Create persons</string>
+    <string name="enter_person_information">Enter Person Information</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="enter">Enter</string>
+    <string name="clear">Clear</string>
+    <string name="_2m">$2M</string>
+    <string name="calculate_emi">Calculate EMI</string>
+    <string name="_18">18%</string>
+    <string name="_1_month">1 Month</string>
+    <string name="_300_months">300 Months</string>
+    <string name="dollar">$</string>
+    <string name="month_s">Month(s)</string>
+    <string name="emi_output">Monthly Payments: $%,.2f\nTotal Payment: $%,.2f</string>
+    <string name="_0">0</string>
+    <string name="list_of_people">List of People</string>
+    <string name="display_persons">Display %d Person(s)</string>
+
+    <string name="required">Required</string>
+    <string name="emi_calculator">EMI Calculator</string>
+    <string name="armstrong_number">Armstrong Number</string>
+    <string name="test">Test</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="check_armstrong_status">Check Armstrong Status</string>
+    <string name="armstrong_output">%d is%s an armstrong number</string>
+    <string name="not">not</string>
+</resources>

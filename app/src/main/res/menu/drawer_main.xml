@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_add_persons"
+            android:icon="@drawable/ic_people"
+            android:title="@string/persons" />
+
+        <item
+            android:id="@+id/nav_emi_calculator"
+            android:icon="@drawable/ic_finance_calculator"
+            android:title="@string/emi_calculator" />
+
+    </group>
+
+    <item android:title="@string/test">
+        <menu>
+            <item
+                android:id="@+id/nav_armstrong_num"
+                android:icon="@drawable/ic_armstrong"
+                android:title="@string/armstrong_number" />
+
+        </menu>
+    </item>
+
+</menu>
